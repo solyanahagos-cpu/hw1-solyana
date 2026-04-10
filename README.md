@@ -1,7 +1,3 @@
 # hw1-solyana >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/solyanahagos-cpu/hw1-solyana.git
-git push -u origin main
+
+This repository contains files created for Homework 1 in a generative AI course
