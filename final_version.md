@@ -25,7 +25,7 @@ Some of the descriptions are broad and will be refined later to better reflect m
 ---
 
 **What I changed myself:**  
-I revised several sentences for clarity, added details about my role supporting USAID-funded programs, and simplified language that felt too general.
+I revised several sentences for clarity, added details about my role supporting DoS-funded programs, and simplified language that felt too general.
 
 **Why I changed it:**  
 I wanted the final version to better reflect my real professional experience and sound more specific to program management work.
