@@ -15,5 +15,5 @@ This repository contains files created for Homework 1 in a generative AI course.
 - Manually edited final version
 
 ## Walkthrough video
-Unlisted video link: (to be added)
+Unlisted video link: (https://youtu.be/6CTs-lO543s)
 
